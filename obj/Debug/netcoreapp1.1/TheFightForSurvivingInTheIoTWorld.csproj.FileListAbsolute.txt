@@ -1,0 +1,8 @@
+c:\Repos\TheFightForSurvivingInTheIoTWorld\bin\Debug\netcoreapp1.1\TheFightForSurvivingInTheIoTWorld.deps.json
+c:\Repos\TheFightForSurvivingInTheIoTWorld\bin\Debug\netcoreapp1.1\TheFightForSurvivingInTheIoTWorld.runtimeconfig.json
+c:\Repos\TheFightForSurvivingInTheIoTWorld\bin\Debug\netcoreapp1.1\TheFightForSurvivingInTheIoTWorld.runtimeconfig.dev.json
+c:\Repos\TheFightForSurvivingInTheIoTWorld\bin\Debug\netcoreapp1.1\TheFightForSurvivingInTheIoTWorld.dll
+c:\Repos\TheFightForSurvivingInTheIoTWorld\bin\Debug\netcoreapp1.1\TheFightForSurvivingInTheIoTWorld.pdb
+c:\Repos\TheFightForSurvivingInTheIoTWorld\obj\Debug\netcoreapp1.1\TheFightForSurvivingInTheIoTWorld.AssemblyInfo.cs
+c:\Repos\TheFightForSurvivingInTheIoTWorld\obj\Debug\netcoreapp1.1\TheFightForSurvivingInTheIoTWorld.dll
+c:\Repos\TheFightForSurvivingInTheIoTWorld\obj\Debug\netcoreapp1.1\TheFightForSurvivingInTheIoTWorld.pdb
